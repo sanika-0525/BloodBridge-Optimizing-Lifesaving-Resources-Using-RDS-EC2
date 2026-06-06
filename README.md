@@ -25,6 +25,7 @@
 
 ## 📁 Repository Structure
 
+```text
 ├── app/                  # Application core logic, routes, and models
 ├── migrations/           # Database migration files
 ├── config.py             # Configuration settings for Flask/AWS
